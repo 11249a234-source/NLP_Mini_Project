@@ -44,3 +44,6 @@ weights may be downloaded from Hugging Face on first use.
 The semantic score is an approximate relevance signal, not a hiring decision
 or a validated measure of candidate ability. Review the underlying resume
 content and skill matches rather than relying on the ranking alone.
+
+For architecture, algorithms, data structures, and limitations, see the
+[technical documentation](TECHNICAL_README.md).
